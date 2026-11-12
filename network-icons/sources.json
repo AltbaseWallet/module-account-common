@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ethereum",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+    "sha256": "455848ff118c0e637aba7553e89baa5b038794207945fdc267d6cb6aa67bcc8c"
+  },
+  {
+    "id": "bsc",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png",
+    "sha256": "ce8cb287f3c22ee809a8088337a21f0bbea2f857e15957edd4bbdadb71290c8e"
+  },
+  {
+    "id": "polygon",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+    "sha256": "552e7c7e9dc0ce20784d98b107547fc721a92f6e1cd8427ac0ae8cb1439b1fe6"
+  },
+  {
+    "id": "arbitrum",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/info/logo.png",
+    "sha256": "b3a56ad6ac4d8e42ccf9202c6083d5843d68fb5258e375529ac72aacc853ee17"
+  },
+  {
+    "id": "solana",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png",
+    "sha256": "f06cfb9d13d801ec6cf7fc0017d357e9f9faed347702e481b058bf1dcc017856"
+  },
+  {
+    "id": "tron",
+    "source": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/info/logo.png",
+    "sha256": "a555e30656323127e997a379f8e9c26ac998361e16e3d677aba17017544e33c9"
+  }
+]
